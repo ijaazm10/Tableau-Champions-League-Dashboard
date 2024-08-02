@@ -9,7 +9,7 @@ This repository showcases a Tableau dashboard that visualizes various statistics
 - `/tableau`: Contains the Tableau workbook file (.twbx).
 
 ## Visualizations
-
+**Winners Ranking**: Displays the club with the most number of titles won.
 - **Total Titles by Country**: Displays the number of titles won by clubs from different countries.
 - **Top Goal Scoring Clubs**: Shows the clubs that have scored the most goals in the UEFA Champions League.
 - **Top Goal Scorers**: Lists the top goal scorers in the history of the UEFA Champions League.
