@@ -38,4 +38,4 @@ The data used in this dashboard was obtained from [Kaggle](https://www.kaggle.co
 
 ## Preview
 
-![Dashboard Preview](images/UCL.pdf)
+![Dashboard Preview](images/UCL.jpg)
